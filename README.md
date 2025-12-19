@@ -97,6 +97,6 @@ A personal collection of origami models, folded from single sheets without cuts 
 
 ## About
 
-Each model in this collection represents hours of careful folding and attention to detail. The designs are created by talented origami artists from around the world, including renowned folders like Satoshi Kamiya, Shuki Kato, Nguyen Ngoc Vu, and Quentin Trollip. All models were folded by me.
+Each model in this collection represents hours of careful folding and attention to detail. The designs are created by talented origami artists from around the world: Satoshi Kamiya, Shuki Kato, Nguyen Ngoc Vu, and Quentin Trollip. All models were folded by me.
 
 All photographs are original images of the completed models.
