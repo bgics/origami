@@ -1,6 +1,6 @@
 # Origami Collection
 
-A personal collection of folded paper sculptures, created from single sheets without cuts or glue.
+A personal collection of origami models, folded from single sheets without cuts or glue.
 
 ## Gallery
 
@@ -97,6 +97,6 @@ A personal collection of folded paper sculptures, created from single sheets wit
 
 ## About
 
-Each model in this collection represents hours of careful folding and attention to detail. The designs are created by talented origami artists from around the world, including renowned folders like Satoshi Kamiya, Shuki Kato, Nguyen Ngoc Vu, and Quentin Trollip.
+Each model in this collection represents hours of careful folding and attention to detail. The designs are created by talented origami artists from around the world, including renowned folders like Satoshi Kamiya, Shuki Kato, Nguyen Ngoc Vu, and Quentin Trollip. All models were folded by me.
 
 All photographs are original images of the completed models.
